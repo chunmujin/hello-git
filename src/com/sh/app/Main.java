@@ -14,21 +14,14 @@ public class Main {
 		System.out.println("동물기능 시작!");
 		System.out.println("Animal Go~");
 		
+		new Dog().bark();
 		new Eagle().fly();
 		new Bird().flyy();
 		new Tiger().punch();
 		
-public class Main {
-
-	public static void main(String[] args) {
-		System.out.println("hello world");
-		System.out.println("hello Git");
 	}
 	public void test() {
 		System.out.println("Main#test");
 	}
 	
-}
-
-	}
 }
