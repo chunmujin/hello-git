@@ -20,7 +20,10 @@ public class Main {
 		new Tiger().punch();
 		
 	}
-	public void abc{
+	public void abc(){
+	
+	}
+	public void def(){
 	
 	}
 	public void test() {
