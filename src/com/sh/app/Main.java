@@ -12,7 +12,9 @@ public class Main {
 		System.out.println("HELLO WORLD");
 		System.out.println("HELLO GIT");
 		
-	
+		System.out.println("동물기능 시작!");
+		System.out.println("Animal Go~");
+		
 		new Dog().bark();
 		new Cat().jump();
 		new Eagle().fly();
@@ -20,5 +22,8 @@ public class Main {
 		new Tiger().punch();
 		
 	}
-
+	public void test() {
+		System.out.println("Main#test");
+	}
+	
 }
