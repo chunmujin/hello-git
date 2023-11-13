@@ -20,5 +20,8 @@ public class Main {
 		new Tiger().punch();
 		
 	}
-
+	public void test() {
+		System.out.println("Main#test");
+	}
+	
 }
